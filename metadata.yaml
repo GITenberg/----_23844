@@ -1,0 +1,33 @@
+_repo: '----_23844'
+_version: 0.1.0
+alternative_title: Liuzu Tan Jing
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huineng
+    alias: 慧能
+    birthdate: 638
+    deathdate: 713
+    gutenberg_agent_id: '26079'
+    url: http://www.gutenberg.org/2009/agents/26079
+    wikipedia: http://en.wikipedia.org/wiki/Dajian_Huineng
+  editor:
+    agent_name: Shi, Fa-Hai
+    gutenberg_agent_id: '26078'
+    url: http://www.gutenberg.org/2009/agents/26078
+description: ''
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23844'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BQ'
+- !lcsh 'Zen Buddhism -- Doctrines -- Early works to 1800'
+title: 六祖壇經
+url: http://www.gutenberg.org/ebooks/23844
